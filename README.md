@@ -108,8 +108,12 @@ The analysis explores:
 
 - <img width="722" height="547" alt="image" src="https://github.com/user-attachments/assets/858801f4-3d05-4806-8ea6-5818627c987e" />
 
-- **Acceleration vs Horsepower**  
-- **Market segment distribution**  
+- **Acceleration vs Horsepower**
+- <img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/cf4d8bce-ee81-41ae-ba2d-ed36723e9450" />
+
+- **Market segment distribution**
+- <img width="463" height="411" alt="image" src="https://github.com/user-attachments/assets/81d0025f-5204-4771-b9c7-98e59ebeb03a" />
+
 - **Autopilot level adoption**  
 - **Brand performance clusters**  
 
