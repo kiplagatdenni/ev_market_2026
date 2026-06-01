@@ -2,7 +2,6 @@
 # **EV Market 2026 — Analytics & Insights**
 
 A full analytics project exploring the 2026 global electric vehicle (EV) market using data engineering, exploratory analysis, feature engineering, and machine learning.  
-This project is designed as a **portfolio‑ready showcase** of data cleaning, modeling, visualization, and business insight generation.
 
 
 ##  **Project Overview**
